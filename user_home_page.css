@@ -1,0 +1,77 @@
+body
+{
+    background-image:url("op.jpeg");
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 1700px 820px;
+
+}
+
+.logout_button
+{
+    text-shadow: 0px 0px 3px rgba(117, 117, 117, 0.12);
+    position:absolute;
+    color: #7e1747;
+    padding-top: 15px;
+    background:transparent;
+    border:0px;
+    font-size:25px;
+    left:1400px;
+
+}
+.user_feature_button{
+    cursor: pointer;
+    border-radius: 5em;
+    color: rgb(250, 250, 250);
+    background: black;
+    border: solid;
+    border-color:black;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+    
+}
+.dashboard
+{
+    position:absolute;
+    font-size: 100px;
+    color:black;
+    left:300px;
+}
+
+#notification__
+{
+    position: absolute;
+    margin-left:15%;
+    top:300px;
+    
+}
+#fav_place
+{
+    position: absolute;
+    margin-left:33%;
+    top:300px;
+}
+#place_visi
+{
+    position: absolute;
+    margin-left:58%;
+    top:300px;
+}
+#explore_place
+{
+    position: absolute;
+    margin-left:15%;
+    top:400px;
+}
+#com_h
+{
+    position: absolute;
+    margin-left:39%;
+    top:400px;
+}
+#calendar
+{
+    position: absolute;
+    margin-left:66%;
+    top:400px;
+}
